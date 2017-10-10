@@ -7,4 +7,8 @@ int main()
 	cout<<"added new line";
 	cout<<"dafd";
 	cout<"sdfdsfsd";
+	cout<<"dsfdsfdsdsfsdf";
+	int a;
+	cin>>a;
+	
 }
